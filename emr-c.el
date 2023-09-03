@@ -29,9 +29,10 @@
 (require 's)
 (require 'dash)
 (require 'thingatpt)
+(require 'project)
+
 (autoload 'c-mode-map "cc-mode")
-(autoload 'projectile-dir-files "projectile")
-(autoload 'projectile-project-p "projectile")
+(autoload 'project-files "project")
 
 (defvar emr-c:standard-headers
   '("aio.h" "arpa/inet.h" "assert.h" "complex.h" "cpio.h" "ctype.h"

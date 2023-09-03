@@ -7,7 +7,7 @@
 ;; Keywords: tools convenience refactoring
 ;; Version: 0.4.1
 ;; URL: https://github.com/Wilfred/emacs-refactor
-;; Package-Requires: ((s "1.3.1") (dash "1.2.0") (cl-lib "0.2") (popup "0.5.0") (emacs "24.1") (list-utils "0.3.0") (paredit "24.0.0") (projectile "0.9.1") (clang-format "0.0.1") (iedit "0.97"))
+;; Package-Requires: ((s "1.3.1") (dash "1.2.0") (cl-lib "0.2") (popup "0.5.0") (emacs "24.1") (list-utils "0.3.0") (paredit "24.0.0") (clang-format "0.0.1") (iedit "0.97"))
 
 ;; This file is not part of GNU Emacs.
 
